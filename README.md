@@ -29,13 +29,24 @@ Sending emails with JSP, Servlet, and JavaMail involves setting up a web applica
 
 # Project Priview
 The form will look like this in a web browser:
-![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/da8a0bf8-5cb9-4d8b-ba18-836bc4e95dd4)
+
+![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/2d83ecf9-12a5-4223-a47e-78d129d9b574)
+
 A form is displayed for entering message details. Type some information into the fields:
-![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/d46a79bf-95f6-4e75-b9a7-9b71bfd7c24f)
+
+![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/17c5a69c-b40c-4cc4-81c5-1003bc1d7d48)
+
 Hit Send button, it will take a while when the e-mail is sending. And finally, we will get a result page which either tells the e-mail was sent:
-![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/6463d3bb-60dd-474c-8841-82de605016a2)
-Output for mail box
-![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/df0eb1b2-40c2-4c2f-8988-a3b5a5dad30a)
+
+![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/f89f58df-43f0-415c-ae62-f6e2c50f77fa)
+
+
+Output for mail box:
+
+![image](https://github.com/saiinfo/Sending-e-mail-with-JSP-Servlet-and-JavaMail/assets/26924010/3259cd62-ef84-4969-91e5-924a97839bc0)
+
+
+
 
 
 
